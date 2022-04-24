@@ -8,7 +8,7 @@ by overwhelming it with traffic from multiple sources. They target a wide variet
 
 Dwonload&Install
 
-git clone https://github.com/Ha3MrX/DDos-Attack
+git clone https://github.com/sumitrana12/Ddos
 
 cd DDos-Attack
 
